@@ -12,7 +12,7 @@ from net import Trainer
 
 
 def Train():
-    rootpath = r'E:\Segmentation\Datasets\Training_data\hybrid\1513_1519_2804_enhanced_selected'
+    rootpath = r'.\Training_dataset\fMost_dataset1\With_features'
     trainTxt = "train.txt"
     valTxt = "val.txt"
     batch_size = 1

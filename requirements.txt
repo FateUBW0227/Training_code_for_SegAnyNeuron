@@ -1,0 +1,7 @@
+numpy==1.24.3
+tifffile==2024.5.3
+h5py==3.8.0
+scikit-image==0.20.0
+tensorboardX==2.6
+torchmetrics==0.11.4
+imagecodecs==2023.3.16
