@@ -44,5 +44,5 @@ The pretrained models can be found in [here](https://github.com/FateUBW0227/Trai
 
 ## Datasets
 
-The training datasets and test datasets can be found [here](https://zenodo.org/uploads/15293756). 
+The training datasets and test datasets can be found [here](https://zenodo.org/records/15293756). 
 
